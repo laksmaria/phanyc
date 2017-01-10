@@ -1,0 +1,107 @@
+
+
+
+
+
+Website Proposal For PHANYC  
+January 10, 2017 
+
+Prepared by: Lakshman Mariappan & Saranya Ponraj
+
+Prepared for: PHANYC.ORG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction 
+Thank you for the opportunity to submit a proposal for the design of the PHANYC. Working together, I believe we can create a site that is simple to navigate and has a professional yet welcoming design. 
+Based on my preliminary discussion with one of your colleagues (Ms. Kavitha), I have identified and listed below the Needs and Solutions that we will want to address in this project. 
+Needs 
+PHANYC needs a website to reach out to the community and also to serve and support the current PHANYC clients & members.
+Furthermore, PHANYC needs a website that can be maintained by a PHANYC employee. The PHANYC employee needs to be able to add and revise both photos and text content if necessary. 
+Solutions 
+We will provide PHANYC with a fresh new web design that is easy to navigate and provides useful information to current subscribers. The design will also convey to potential subscribers that PHANYC is a professional, reliable company. 
+The design will integrate the current logo and color palette so it will maintain a familiar look to current subscribers, but will at the same time show them that PHANYC is improving its web presence in order to serve them better. 
+Content Management System 
+Open source Content Management System (CMS) that will allow PHANYC to make changes easily to the website, without requiring a dedicated workstation or additional software. Not only will the CMS save PHANYC website revision costs but it will also ensure that the website stays fresh and up to date. 
+
+Website Organization 
+The new design will have five main landing pages: 
+1.	Home Page 
+2.	About
+3.	Mission
+4.	Public health (local & national level updates)
+5.	Newsletter
+6.	Membership
+7.	Policy & Privacy
+8.	Events
+9.	Contact
+The above pages will be "hardwired" into the new design by us and links to them will appear in the horizontal menu bar at the top of the page (below the logo and other header content). 
+On each of these pages, we will include a left-hand column that PHANYC can use to create links to as many "subpages" as they wish. Therefore, the CMS allows for as many pages as necessary, without incurring additional cost or effort.
+Workflow 
+Preliminary Design 
+Working in conjunction with PHANYC, We will provide PHANYC with a preliminary design concept for the new website. That design concept will include the basic layout, color palette, font choices, etc. 
+PHANYC can at that point request one round of design revisions within the scope of the Fee Schedule (see below). If more revisions are deemed necessary at that point by PHANYC, the work will be done at extra cost & time. (This is rarely necessary, especially for a simple website project such as this, but if necessary will be discussed fully before any fees are assessed.) 
+Integration of Content Management System 
+Once the design is approved, then we will incorporate the Content Management System into the design. 
+
+Launch 
+When PHANYC has finished incorporating all the content they wish to have at launch, they will ask us to move the website from the development sub-directory to the main root level of the domain, thereby making the site go live. Congratulations! 
+
+Summary 
+Website Design and Setup
+Includes: 
+•	Work with client to create a custom website interface - layout, colors, and fonts set up website architecture and navigation system
+•	Implement nameplate/logo placement and design
+•	Create website mirror for beta testing purposes 
+•	Integrate content management system 
+Website Pages – 5 to 10 
+Using the webpage template developed during the initial design phase, this includes integration of the main landing pages into site architecture and navigation: 
+1.	Home Page 
+2.	About
+3.	Mission
+4.	Public health (local & national level updates)
+5.	Newsletter
+6.	Membership
+7.	Policy & Privacy
+8.	Events
+9.	Contact
+No Free Hosting
+No Free Domain Name Registration
+
+Terms and Conditions 
+We retain the right to display graphics and other Web content elements as examples of their work in their portfolio and as content features in other projects. We also retains the right to place a discreet text link at the bottom of the website page(s). 
+In Return
+We will be expecting any gift appreciation worth of minimum of $500 for the favor of designing and developing your website for free. 
+Next Steps 
+To proceed with this project, PHANYC is required to take the following steps: 
+1. Accept the proposal "as is" or discuss desired changes. Please note that changes to the scope of the project can be made at any time, but additional charges may apply. 
+2. Finalize and sign contract
+3. Submit initial payments if any. 
+4. Handover the Laptop or any other devices which can be used on behalf of PHANYC for the purpose of developing and deploying the websites into the domain phanyc.org or pha.nyc
+             
+Once these steps have been completed we will begin the project. 
+
+Examples of Our Work and References 
+You can see a list of some of the current websites designed and developed by We here: 
+https://www.spglobal.com/
+https://www.fitchratings.com/
+http://www.centurylink.com/
+http://www.medtechglobal.com/
+http://inlogic.in/
+
